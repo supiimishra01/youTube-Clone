@@ -197,7 +197,6 @@ nav {
 
 
 
-
 /* Responsive Design */
 @media (max-width: 1312px) {
     .video-grid {
@@ -222,7 +221,7 @@ nav {
 
 @media (max-width: 792px) {
 
-    .mobileNav{
+    .mobileNav {
         position: fixed;
         bottom: 0;
         /* left: 0.2rem; */
@@ -238,7 +237,7 @@ nav {
         background-color: #0F0F0F;
     }
 
-     .center-part{
+    .center-part {
         display: none;
     }
 
@@ -270,7 +269,7 @@ nav {
 
 @media (max-width: 656px) {
 
-    .mobileNav{
+    .mobileNav {
         position: fixed;
         bottom: 0;
         /* left: 0.2rem; */
@@ -286,7 +285,7 @@ nav {
         background-color: #0F0F0F;
     }
 
-     .center-part{
+    .center-part {
         display: none;
     }
 
@@ -310,7 +309,7 @@ nav {
 
 @media (max-width: 480px) {
 
-    .mobileNav{
+    .mobileNav {
         position: fixed;
         bottom: 0;
         /* left: 0.2rem; */
@@ -326,7 +325,7 @@ nav {
         background-color: #0F0F0F;
     }
 
-     .center-part{
+    .center-part {
         display: none;
     }
 
@@ -362,7 +361,7 @@ nav {
 
 @media (max-width: 320px) {
 
-    .center-part{
+    .center-part {
         display: none;
     }
 
